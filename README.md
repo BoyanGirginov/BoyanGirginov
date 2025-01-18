@@ -1,4 +1,4 @@
-<h2 align="left">Supp World👋! My name is Bobby; Thanks for viewing my page </h2>
+<h2 align="left">Hey, World! 🌍! My name is Bobby. Thanks for stopping by </h2>
 
 ###
 
