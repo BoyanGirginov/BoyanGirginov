@@ -62,6 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/boyangirginov/boyangirginov/output/snake.svg" alt="Snake animation" />
-
 ###
+
+![snake gif](https://github.com/BoyanGirginov/BoyanGirginov/blob/output/github-snake-dark.svg)
