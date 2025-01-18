@@ -1,4 +1,4 @@
-<h2 align="left">Supp World👋! My name is Bobby and I'm a Finance / Data / Videography Geek from The Matrix</h2>
+<h2 align="left">Supp World👋! My name is Bobby; Thanks for viewing my page </h2>
 
 ###
 
